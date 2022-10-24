@@ -110,13 +110,13 @@ Bookify is a simple app that allows users to find books through Google Books dat
     - modal page with info
     - add to bookshelf
 
-<img src="https://i.imgur.com/fYkpn4B.gif" width=300>
-
 ### [BONUS] Digital Wireframes & Mockups!
 <img src="https://i.imgur.com/HxrKvL7.png" width=600>
 
 ### [BONUS] Interactive Prototype
 - **Figma Prototype**: https://www.figma.com/file/oMdNLc4eQEmV5q5J3jrmpf/Bookify-Wireframe?node-id=0%3A1
+
+<img src="https://i.imgur.com/fYkpn4B.gif" width=300>
 
 ## Schema 
 [This section will be completed in Unit 9]
